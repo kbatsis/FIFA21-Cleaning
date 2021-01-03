@@ -1,0 +1,1 @@
+This is a simple cleaning project concerning a dataset of EA Sports' FIFA21 which was scraped from sofifa.com and obtained through kaggle. It was performed with Anaconda python 3.8.
